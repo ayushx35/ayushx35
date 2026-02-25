@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ayushmaan Singh
+# Hi I'm Ayushmaan Singh
 
 <p align="center">
   <img src="github-user-contribution.svg" alt="GitHub Contribution Graph" width="100%" />
