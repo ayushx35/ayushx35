@@ -25,20 +25,4 @@ Building LLM-powered AI Agents, intelligent automation systems, and data-driven 
 • LLM + Database Automation  
 • Deep Learning Applications  
 
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/SQL-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SQL-Agent&theme=tokyonight">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/PDF-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PDF-Agent&theme=tokyonight">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/Web-Scraping-Agent-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Web-Scraping-Agent-Chatbot&theme=tokyonight">
-  </a>
-</p>
-
 ⭐ Engineering intelligent systems with real-world impact
