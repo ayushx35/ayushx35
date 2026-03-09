@@ -28,4 +28,3 @@
 </p>
 
 
-⭐ Engineering intelligent systems with real-world impact
