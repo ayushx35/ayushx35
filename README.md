@@ -22,6 +22,12 @@
     <img width="12" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <p align="center">
   <img src="github-user-contribution.svg" alt="GitHub Contribution Graph" width="100%" />
