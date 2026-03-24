@@ -20,8 +20,9 @@
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/npm/@solana/web3.js@1.98.4/lib/index.browser.cjs.min.js" height="30" alt="java logo"/>
-    <img width="12" />
+    <script src="
+https://cdn.jsdelivr.net/npm/@solana/web3.js@1.98.4/lib/index.browser.cjs.min.js
+"></script>
 </div>
 
 
