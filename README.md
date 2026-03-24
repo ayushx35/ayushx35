@@ -1,5 +1,5 @@
-# <h1> Hi 👋! My name is Ayushmaan Singh and I'm a Full Stack Developer, from Lucknow, India
-  <h1>
+# <h2> Hi! My name is Ayushmaan Singh and I'm a Full Stack Developer
+  
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
