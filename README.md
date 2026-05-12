@@ -4,7 +4,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   <img width="12" />
 
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fkidscodecs.com%2Frust%2F&ved=0CBYQjRxqFwoTCNCS-9HGtJQDFQAAAAAdAAAAABAe&opi=89978449" height="30" alt="Rust logo" />
+  <img src="[https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fkidscodecs.com%2Frust%2F&ved=0CBYQjRxqFwoTCNCS-9HGtJQDFQAAAAAdAAAAABAe&opi=89978449](https://upload.wikimedia.org/wikipedia/commons/8/87/127-1276589_rust-programming-language-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" height="30" alt="Rust logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
