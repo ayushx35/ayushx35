@@ -4,7 +4,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   <img width="12" />
 
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fuxwing.com%2Frust-programming-language-icon%2F&ved=0CBYQjRxqFwoTCIij77TItJQDFQAAAAAdAAAAABAe&opi=89978449" height="30" alt="Rust logo" />
+  <img src="https://logowik.com/content/uploads/images/rust4784.logowik.com.webp" height="30" alt="Rust logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
