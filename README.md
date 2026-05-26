@@ -31,5 +31,5 @@
 <br/>
 
 <p align="center">
-  <img src="github-user-contribution.svg" alt="GitHub Contribution Graph" width="100%" />
+  <img src="github-user-contribution1.svg" alt="GitHub Contribution Graph" width="100%" />
 </p>
